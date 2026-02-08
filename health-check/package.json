@@ -1,0 +1,11 @@
+{
+  "name": "@opencode-plugins/health-check",
+  "version": "1.0.0",
+  "description": "Health check endpoint generator plugin",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

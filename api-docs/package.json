@@ -1,0 +1,11 @@
+{
+  "name": "@opencode-plugins/api-docs",
+  "version": "1.0.0",
+  "description": "API documentation validation plugin",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
