@@ -1,0 +1,11 @@
+{
+  "name": "@opencode-plugins/readme-validator",
+  "version": "1.0.0",
+  "description": "README validator plugin",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@opencode-plugins/code-quality",
+  "version": "1.0.0",
+  "description": "Code quality enforcement plugin",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

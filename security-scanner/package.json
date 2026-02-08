@@ -1,0 +1,11 @@
+{
+  "name": "@opencode-plugins/security-scanner",
+  "version": "1.0.0",
+  "description": "Security scanner plugin for detecting vulnerabilities and secrets",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
