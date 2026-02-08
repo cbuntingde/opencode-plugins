@@ -4,7 +4,19 @@ This repository contains OpenCode plugins that extend the agent with custom func
 
 ## Available Plugins
 
-- [knowledge-graph](/knowledge-graph/) - Maintains project context and knowledge across sessions
+| Plugin | Description |
+|--------|-------------|
+| [api-docs](/api-docs/) | Generate API documentation from code |
+| [bundle-analyzer](/bundle-analyzer/) | Analyze bundle size and dependencies |
+| [code-quality](/code-quality/) | Enforce code quality standards |
+| [dependency-audit](/dependency-audit/) | Audit dependencies for vulnerabilities |
+| [env-validator](/env-validator/) | Validate environment configuration |
+| [git-hygiene](/git-hygiene/) | Enforce git commit standards |
+| [health-check](/health-check/) | System health monitoring |
+| [knowledge-graph](/knowledge-graph/) | Maintain project context across sessions |
+| [readme-validator](/readme-validator/) | Validate README completeness |
+| [security-scanner](/security-scanner/) | Security vulnerability scanning |
+| [test-coverage](/test-coverage/) | Track and report test coverage |
 
 ## Installation
 
